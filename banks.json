@@ -1,0 +1,19 @@
+{
+    "banks": [
+        {
+            "bank_name": "Bank BRI",
+            "url_ib": "",
+            "icon_img": ""
+        },
+        {
+            "bank_name": "Bank BRI",
+            "url_ib": "",
+            "icon_img": ""
+        },
+        {
+            "bank_name": "Bank BRI",
+            "url_ib": "",
+            "icon_img": ""
+        }
+    ]
+}
