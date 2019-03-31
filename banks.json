@@ -1,5 +1,4 @@
-{
-    "banks": [
+[
         {
             "bank_name": "Bank BRI",
             "url_ib": "https://ib.bri.co.id/",
@@ -15,5 +14,4 @@
             "url_ib": "https://ibank.bankmandiri.co.id/",
             "icon_img": "https://pbs.twimg.com/profile_images/768279228680765440/GR6cwfdP_400x400.jpg"
         }
-    ]
-}
+]
